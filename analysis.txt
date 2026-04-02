@@ -1,0 +1,26 @@
+Trend Analysis:
+- What is the sales trend over the 4-year period?
+order date, sales, quantity
+- Which months show the highest sales? Is there seasonality?
+sales, order date
+- How has profit margin changed over time?
+profit, order date, sales, quantity
+Category Analysis:
+- Which product category generates the most revenue?
+category, sales
+- What sub-categories have the highest profit margins?
+sub-category, profit, sales
+- Which products are frequently sold at a discount?
+discount, product name, quantity
+Regional Analysis:
+- Which region has the best sales performance?
+only USA, region, sales
+- Compare sales performance across different states.
+state, sales
+- Which cities are the top performers?
+city, sales
+Comparative Analysis:
+- Compare Technology vs. Furniture sales trends.
+category, sales, order date
+- How does the West region compare to the East in terms of profit?
+region, profit

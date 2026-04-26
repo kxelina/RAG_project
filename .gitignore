@@ -1,3 +1,7 @@
 \venv
 \Superstore.csv
 .ipynb_checkpoints
+analysis.pkl
+chroma_db/
+.env
+Files.zip

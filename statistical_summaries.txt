@@ -1,7 +1,0 @@
-Total Sales: 2297200.8603000003
-Total Profit: 286397.0217
-Average Discount: 0.15620272163297977
-Average Quantity Sold: 3.789573744246548
-Average Sales per Order: 229.85800083049833
-Average Profit per Order: 28.65689630778467
-Total Orders: 9994

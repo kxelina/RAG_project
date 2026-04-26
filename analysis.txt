@@ -18,7 +18,7 @@ only USA, region, sales
 - Compare sales performance across different states.
 state, sales
 - Which cities are the top performers?
-city, sales
+city, profit
 Comparative Analysis:
 - Compare Technology vs. Furniture sales trends.
 category, sales, order date

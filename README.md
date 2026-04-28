@@ -9,7 +9,7 @@ Download: Superstore.csv from https://www.kaggle.com/datasets/vivek468/superstor
 ```
 ### 2. Install Dependencies
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 ### 3. Build Vector Database (Local)
 ```
